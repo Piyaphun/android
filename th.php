@@ -1,1 +1,3 @@
-aun
+aun aun  aun
+sodium_base642binsad
+socket_addrinfo_bind
